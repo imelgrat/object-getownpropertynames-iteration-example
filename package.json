@@ -1,0 +1,23 @@
+{
+  "name": "object-entries-iteration-example",
+  "version": "1.0.0",
+  "description": "The Object.entries() method returns an array of a given object's own enumerable properties and their associated values. In other words, it returns and array of 2-item arrays, where the first item contains the property's name (key), while the second holds the property's value",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": [
+    "javascript",
+    "javascript object",
+    "object properties",
+    "object entries",
+    "entries iteration",
+    "property iteration"
+  ]
+}
